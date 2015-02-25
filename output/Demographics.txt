@@ -1,0 +1,12 @@
+Report: Demographics
+                      ageGroup                        gender              viewerPercentage
+                      age25-34                          male                          47.5
+                      age35-44                          male                          21.9
+                      age18-24                          male                          12.8
+                      age25-34                        female                           7.9
+                      age45-54                          male                           3.5
+                      age18-24                        female                           1.8
+                      age45-54                        female                           1.7
+                      age35-44                        female                           1.4
+                      age55-64                          male                           1.3
+

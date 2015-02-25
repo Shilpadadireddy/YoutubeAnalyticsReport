@@ -1,0 +1,8 @@
+Report: Device Type.
+                    deviceType                         views       estimatedMinutesWatched
+                       DESKTOP                        4160.0                       20770.0
+                        MOBILE                         271.0                        1108.0
+                        TABLET                         133.0                         882.0
+                            TV                          39.0                         306.0
+              UNKNOWN_PLATFORM                           2.0                           0.0
+

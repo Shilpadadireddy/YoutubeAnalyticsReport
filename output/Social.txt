@@ -1,0 +1,6 @@
+Report: Social.
+                sharingService                        shares
+                    GOOGLEPLUS                           1.0
+                         GMAIL                           2.0
+                       TWITTER                           1.0
+

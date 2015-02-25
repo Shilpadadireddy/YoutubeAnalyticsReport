@@ -1,0 +1,23 @@
+Report: Top Videos
+                         video                         views             subscribersGained               subscribersLost
+                   nPRY-qGaAMs                         378.0                           7.0                           0.0
+                   p7uCyFfWL-c                         357.0                           3.0                           0.0
+                   mRIsLSrHOj4                         261.0                           2.0                           0.0
+                   -Rc-jisdyKI                         223.0                           0.0                           0.0
+                   YD0TmhyC53U                         195.0                           1.0                           0.0
+                   he8vt835cf8                         140.0                           1.0                           0.0
+                   HaU43H_HlqM                         136.0                           0.0                           0.0
+                   EExYpCEuPAI                         125.0                           0.0                           0.0
+                   n0bBNcuFUQs                         113.0                           0.0                           0.0
+                   IRxgew6ytq8                         111.0                           0.0                           0.0
+                   B3lOOj9qlWk                         105.0                           1.0                           0.0
+                   JNBcSIn2des                          90.0                           2.0                           0.0
+                   OgtMCHNEAow                          82.0                           2.0                           0.0
+                   _ljhU_luFQY                          78.0                           1.0                           0.0
+                   huYrAgoiylg                          76.0                           0.0                           0.0
+                   OwQYefxakwA                          76.0                           0.0                           0.0
+                   UD7YitklT8M                          68.0                           6.0                           0.0
+                   GoguGXunJ5c                          67.0                           0.0                           0.0
+                   UOcpGp2snVM                          63.0                           1.0                           0.0
+                   TcEMwQ3T1Gk                          62.0                           0.0                           0.0
+
